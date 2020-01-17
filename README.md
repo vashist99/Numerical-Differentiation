@@ -8,22 +8,22 @@ with different interval sizes (H).
 ## How to run?
 - Use:
 ```
-g++ -std=c++17 cosx.cpp
+g++ -std=c++17 cos.cpp
 ```
 or
 ```
-g++ cosx.cpp
+g++ cos.cpp
 ```
 
 to run the difference methods on cos(x)
 
 - Use:
 ```
-g++ -std=c++17 ex.cpp
+g++ -std=c++17 exp.cpp
 ```
 or
 ```
-g++ ex.cpp
+g++ exp.cpp
 ```
 
 to run the difference methods on e^(x)
